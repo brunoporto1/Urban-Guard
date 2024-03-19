@@ -1,7 +1,5 @@
 # Bem-vindo ao Urban Guard
 
-![Urban Guard Logo](https://example.com/urban_guard_logo.png)
-
 O Urban Guard é um aplicativo dedicado a melhorar a qualidade de vida nas áreas urbanas, permitindo que os cidadãos relatem problemas e contribuam para tornar suas comunidades mais seguras e agradáveis.
 
 ## Sobre
